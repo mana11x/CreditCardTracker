@@ -1,0 +1,23 @@
+{
+  "name": "zk-CreditCard บันทึกการใช้บัตรเครดิต",
+  "short_name": "zk-CreditCard",
+  "description": "บันทึกและสรุปยอดใช้จ่ายบัตรเครดิต ใช้ฟรี ไม่มีโฆษณา",
+  "id": "./",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#03173d",
+  "prefer_related_applications": false,
+  "icons": [
+    {
+      "src": "icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    },
+    {
+      "src": "icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    }
+  ]
+}
